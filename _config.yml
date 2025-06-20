@@ -49,10 +49,11 @@ exclude:
 livereload: true
 
 sass:
+  sass_dir: assets/css
   style: compressed
-  source_dir: _sass
-  # load_paths: 
-    # - node_modules
+  load_paths:
+    - _sass
+    - node_modules
 
 #google_analytics: UA-code-here
 cookie_policy: /cookie-policy/
