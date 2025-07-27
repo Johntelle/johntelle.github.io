@@ -1,13 +1,12 @@
 # Site Settings
-theme: bulma-clean-theme
-lang: pt
-title: Johntelle's Warehouse
+lang: en
+title: Bulma Clean Theme
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
-url: "https://johntelle.github.io/"
+baseurl: "/bulma-clean-theme"
+url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -25,7 +24,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: j0hnn1e20
+  shortname: csrhymes
 
 
 plugins:
@@ -49,11 +48,10 @@ exclude:
 livereload: true
 
 sass:
-  sass_dir: assets/css
   style: compressed
-  load_paths:
-    - _sass
-    - node_modules
+  source_dir: _sass
+  # load_paths: 
+    # - node_modules
 
 #google_analytics: UA-code-here
 cookie_policy: /cookie-policy/
@@ -70,7 +68,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Johntelle"
+      author: "C.S. Rhymes"
       layout: post
       image: https://picsum.photos/id/16/800/600
       show_sidebar: true
