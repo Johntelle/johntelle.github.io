@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docs
+title: Documentação
 menubar: docs_menu
 show_sidebar: false
 ---
