@@ -25,7 +25,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: J0hnn1e20
 
 
 plugins:
@@ -69,7 +69,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "J0hnn1e20"
       layout: post
       image: https://picsum.photos/id/16/800/600
       show_sidebar: true
@@ -87,10 +87,7 @@ collections:
     show_sidebar: false
 
 social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+
+  discord: https://discord.gg/
+  youtube: https://www.youtube.com/@J0hnn1e20
   
