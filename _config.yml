@@ -1,21 +1,21 @@
 # Site Settings
 theme: bulma-clean-theme
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: J0hnn1e20's Warehouse
+tagline: 
+email: J0hnn1e20@proton.me
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Meu blog e portifólio pessoal.
+baseurl: ""
+url: "https://johntelle.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor: 
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
-force_theme: light
+force_theme: dark
 
 paginate: 5
 paginate_path: "/blog/page:num"
